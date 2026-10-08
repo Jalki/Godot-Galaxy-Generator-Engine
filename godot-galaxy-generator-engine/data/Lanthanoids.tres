@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://d4dxs4hif682y"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_jxu2w"]
+
+[resource]
+script = ExtResource("1_jxu2w")
+GroupName = "Lanthanoids"
+GroupID = 19
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

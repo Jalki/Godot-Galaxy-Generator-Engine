@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://cctley6pbveej"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_m5cx7"]
+
+[resource]
+script = ExtResource("1_m5cx7")
+GroupName = "Scandium Group"
+GroupID = 3
+BaseRarity = 0.775
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

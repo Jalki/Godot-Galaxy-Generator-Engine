@@ -1,0 +1,2 @@
+extends CelestialData
+class_name Comet

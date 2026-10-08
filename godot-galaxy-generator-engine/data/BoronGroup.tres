@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://jj1v0ys7rwnd"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_pkd64"]
+
+[resource]
+script = ExtResource("1_pkd64")
+GroupName = "Boron Group"
+GroupID = 13
+BaseRarity = 0.45
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

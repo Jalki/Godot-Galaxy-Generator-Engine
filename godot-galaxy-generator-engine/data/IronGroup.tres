@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://cdqg5iq5hs47t"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_cxi0l"]
+
+[resource]
+script = ExtResource("1_cxi0l")
+GroupName = "Iron Group"
+GroupID = 8
+BaseRarity = 8.6
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

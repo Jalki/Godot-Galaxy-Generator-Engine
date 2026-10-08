@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://50nb06xrb3i"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_0tc7u"]
+
+[resource]
+script = ExtResource("1_0tc7u")
+GroupName = "Carbon Group"
+GroupID = 14
+BaseRarity = 0.8
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

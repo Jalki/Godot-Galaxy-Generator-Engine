@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://b6fifvlpf18aa"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_7cglx"]
+
+[resource]
+script = ExtResource("1_7cglx")
+GroupName = "Titanium Group"
+GroupID = 4
+BaseRarity = 0.668
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

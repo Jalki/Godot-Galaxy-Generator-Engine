@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://bwooykbpyi02b"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_o6fxi"]
+
+[resource]
+script = ExtResource("1_o6fxi")
+GroupName = "Noble Gases"
+GroupID = 18
+BaseRarity = 0.895
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

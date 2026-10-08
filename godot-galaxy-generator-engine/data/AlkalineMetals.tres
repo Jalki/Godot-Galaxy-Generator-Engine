@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://bl3ru5wlgvkqs"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_154bu"]
+
+[resource]
+script = ExtResource("1_154bu")
+GroupName = "Alkaline Metals"
+GroupID = 2
+BaseRarity = 0.66
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

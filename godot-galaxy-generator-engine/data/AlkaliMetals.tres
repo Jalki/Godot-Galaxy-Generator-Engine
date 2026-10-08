@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://bbtxxsac5f4bx"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_v3rcw"]
+
+[resource]
+script = ExtResource("1_v3rcw")
+GroupName = "Akali Metals"
+GroupID = 1
+BaseRarity = 0.75
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"

@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ElementalGroup" load_steps=2 format=3 uid="uid://co4ojlmc3ygya"]
+
+[ext_resource type="Script" uid="uid://cmwlokyr34oo6" path="res://code/ElementalGroup.gd" id="1_bxh4a"]
+
+[resource]
+script = ExtResource("1_bxh4a")
+GroupName = "Cobalt Group"
+GroupID = 9
+BaseRarity = 0.7
+metadata/_custom_type_script = "uid://cmwlokyr34oo6"
